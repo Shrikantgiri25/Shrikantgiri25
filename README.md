@@ -167,8 +167,6 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantgiri25&repo=payrollsystem&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-
-
 <a href="https://github.com/Shrikantgiri25/Internet-Speed-Tester">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantgiri25&repo=Internet-Speed-Tester&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
