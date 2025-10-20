@@ -150,6 +150,10 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 <div align="center">
+  
+<a href="https://github.com/Shrikantgiri25/ChatApp-with-Video-Calling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantgiri25&repo=ChatApp-with-Video-Calling&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
 <a href="https://github.com/Shrikantgiri25/Covid-Vaccine-Slot-management">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantgiri25&repo=Covid-Vaccine-Slot-management&theme=tokyonight&hide_border=true&bg_color=0D1117" />
@@ -163,9 +167,7 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantgiri25&repo=payrollsystem&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/Shrikantgiri25/ChatApp-with-Video-Calling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantgiri25&repo=ChatApp-with-Video-Calling&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+
 
 <a href="https://github.com/Shrikantgiri25/Internet-Speed-Tester">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrikantgiri25&repo=Internet-Speed-Tester&theme=tokyonight&hide_border=true&bg_color=0D1117" />
