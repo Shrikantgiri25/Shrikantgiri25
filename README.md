@@ -215,24 +215,27 @@ me.say_hi()
 - 💡 Building side projects
 
 ---
+
 ## 🛠️ Open Source Contributions
 
 <div align="center">
 
-
-<p>
 🎉 Fixed broken link syntax in installation guide and updated URLs for stable access.  
 Tech Stack: Python | Sphinx | reStructuredText
-</p>
+
+<br/>
+
 <a href="https://github.com/celery/django-celery-results/pull/493">
-  <img align="center" src="https://img.shields.io/badge/PR-%23493-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PR-%23493-blue?style=for-the-badge&logo=github" />
 </a>
 <a href="https://github.com/celery/django-celery-results/issues/492">
-  <img align="center" src="https://img.shields.io/badge/Issue-%23492-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Issue-%23492-red?style=for-the-badge&logo=github" />
 </a>
 
 </div>
+
 ---
+
 <div align="center">
 
 ### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
@@ -244,5 +247,6 @@ Tech Stack: Python | Sphinx | reStructuredText
 </div>
 
 ---
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
