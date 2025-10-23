@@ -219,17 +219,17 @@ me.say_hi()
 
 <div align="center">
 
+
+<p>
+🎉 Fixed broken link syntax in installation guide and updated URLs for stable access.  
+Tech Stack: Python | Sphinx | reStructuredText
+</p>
 <a href="https://github.com/celery/django-celery-results/pull/493">
   <img align="center" src="https://img.shields.io/badge/PR-%23493-blue?style=for-the-badge&logo=github" />
 </a>
 <a href="https://github.com/celery/django-celery-results/issues/492">
   <img align="center" src="https://img.shields.io/badge/Issue-%23492-red?style=for-the-badge&logo=github" />
 </a>
-
-<p>
-🎉 Fixed broken link syntax in installation guide and updated URLs for stable access.  
-Tech Stack: Python | Sphinx | reStructuredText
-</p>
 
 </div>
 
