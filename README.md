@@ -215,15 +215,24 @@ me.say_hi()
 - 💡 Building side projects
 
 ---
-<div align="center">
 ## 🛠️ Open Source Contributions
 
-- **Project:** django-celery-results (Celery Project)
-- **PR:** [#493](https://github.com/celery/django-celery-results/pull/493)
-- **Issue:** [#492](https://github.com/celery/django-celery-results/issues/492)
-- **Contribution:** Enhanced installation experience by fixing broken link syntax and updating URLs for stable access
-- **Tech Stack:** Python | Sphinx | reStructuredText
+<div align="center">
+
+<a href="https://github.com/celery/django-celery-results/pull/493">
+  <img align="center" src="https://img.shields.io/badge/PR-%23493-blue?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/celery/django-celery-results/issues/492">
+  <img align="center" src="https://img.shields.io/badge/Issue-%23492-red?style=for-the-badge&logo=github" />
+</a>
+
+<p>
+🎉 Fixed broken link syntax in installation guide and updated URLs for stable access.  
+Tech Stack: Python | Sphinx | reStructuredText
+</p>
+
 </div>
+
 <div align="center">
 
 ### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
