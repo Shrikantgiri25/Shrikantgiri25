@@ -216,13 +216,13 @@ me.say_hi()
 
 ---
 <div align="center">
+## 🛠️ Open Source Contributions
 
 - **Project:** django-celery-results (Celery Project)
 - **PR:** [#493](https://github.com/celery/django-celery-results/pull/493)
 - **Issue:** [#492](https://github.com/celery/django-celery-results/issues/492)
 - **Contribution:** Enhanced installation experience by fixing broken link syntax and updating URLs for stable access
 - **Tech Stack:** Python | Sphinx | reStructuredText
-
 </div>
 <div align="center">
 
