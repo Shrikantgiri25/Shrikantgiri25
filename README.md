@@ -173,15 +173,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shrikantgiri25&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/Shrikantgiri25)
-
-</div>
 
 ---
 
@@ -220,6 +211,34 @@ me.say_hi()
 
 <div align="center">
 
+🚀 Enhanced **Django REST Framework** documentation by adding a one-click “Copy” button to all code blocks(680+).  
+Tech Stack: Python | MkDocs | JavaScript
+
+<br/>
+
+<a href="https://github.com/encode/django-rest-framework/pull/9830">
+  <img src="https://img.shields.io/badge/PR-%239830-blue?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+<div align="center">
+
+🛡️ Stabilized **Django REST Framework** test suite on Windows by skipping incompatible tests and removing debug prints.  
+Tech Stack: Python | PyTest
+
+<br/>
+
+<a href="https://github.com/encode/django-rest-framework/pull/9808">
+  <img src="https://img.shields.io/badge/PR-%239808-blue?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+
+
+<div align="center">
+
 🎉 Fixed broken link syntax in installation guide and updated URLs for stable access.  
 Tech Stack: Python | Sphinx | reStructuredText
 
@@ -233,6 +252,8 @@ Tech Stack: Python | Sphinx | reStructuredText
 </a>
 
 </div>
+
+
 
 ---
 
