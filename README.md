@@ -211,16 +211,21 @@ me.say_hi()
 
 <div align="center">
 
-🚀 Enhanced **Django REST Framework** documentation by adding a one-click “Copy” button to all code blocks(680+).  
+🚀 Enhanced <b>Django REST Framework</b> documentation by adding a one-click “Copy” button to all code blocks (680+).  
 Tech Stack: Python | MkDocs | JavaScript
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/encode/django-rest-framework/pull/9830">
   <img src="https://img.shields.io/badge/PR-%239830-blue?style=for-the-badge&logo=github" />
 </a>
 
+<a href="https://www.django-rest-framework.org/">
+  <img src="https://img.shields.io/badge/DRF-Official_Docs-red?style=for-the-badge&logo=django" />
+</a>
+
 </div>
+
 
 <div align="center">
 
